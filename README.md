@@ -3,7 +3,7 @@
 ## Base de Dados
 - **Descrição:** Conjunto de dados contendo informações sobre a incidência de câncer em 8 grandes regiões dos Estados Unidos, representando aproximadamente **34% da população norte-americana**.
 - **Fonte:** SEER – Surveillance, Epidemiology, and End Results Program
-- **Ferramenta:** Python
+- **Ferramenta:** Python puro (sem pandas)
 
 O SEER é um programa federal de pesquisa científica dos Estados Unidos, parte de uma iniciativa governamental de vigilância epidemiológica. Ele coleta informações detalhadas sobre todos os diagnósticos de câncer, incluindo dados hospitalares, laboratoriais, registros de patologia e certificados de óbito, utilizando registros populacionais contínuos de câncer.
 
@@ -78,7 +78,7 @@ Além disso, nota-se um crescimento da taxa de incidência, principalmente nas m
 
 ## Observações do gráfico:
 
-A taxa dos homens subiu muito até 1990, desde esse período ela encontra-se em decadência. Diferente da taxa das mulheres, que encontra-se subindo desde o ano inicial, com oscilações naturais.
+A taxa dos homens subiu muito até **1990**, desde esse período ela encontra-se em decadência. Diferente da taxa das mulheres, que encontra-se subindo desde o ano inicial, com oscilações naturais.
 
 ## Conclusão:
-Os resultados indicam que a taxa de incidência de câncer é historicamente maior entre os homens. No entanto, observa-se que o crescimento percentual ao longo do período analisado foi mais expressivo entre as mulheres. Esse padrão demonstra uma **redução na diferença** relativa entre os sexos ao longo do tempo. Isso pode ser efeito do envelhecimento populacional associado a uma maior expectativa de vida das mulheres. O crescimento percentual mais acentuado entre as mulheres pode indicar uma tendência de convergência das taxas no futuro.
+Os resultados indicam que a taxa de incidência de câncer é historicamente **maior entre os homens**. No entanto, observa-se que o crescimento percentual ao longo do período analisado foi mais expressivo entre as mulheres. Esse padrão demonstra uma **redução na diferença** relativa entre os sexos ao longo do tempo. Isso pode ser efeito do envelhecimento populacional associado a uma maior expectativa de vida das mulheres. O crescimento percentual mais acentuado entre as mulheres pode indicar uma tendência de convergência das taxas no futuro.
