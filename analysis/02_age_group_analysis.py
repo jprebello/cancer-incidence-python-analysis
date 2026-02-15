@@ -1,5 +1,5 @@
 # Abrindo o arquivo CSV contendo os dados da "pergunta 2"
-with open("../data/02_age_group_analysis.py", "r") as arquivo:
+with open("../data/incidence_by_age.csv", "r") as arquivo:
     lista = arquivo.readlines()
 
 # Removendo linhas desnecessárias do início e do final do arquivo (informações que não são dados)
