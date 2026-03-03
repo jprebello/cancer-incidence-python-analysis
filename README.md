@@ -48,6 +48,8 @@ Esses resultados indicam que, considerando apenas o primeiro e o último ano, o 
 
 ## Observações do gráfico:
 
+![Gráfico da taxa de incidência ao longo dos anos](figures/trend_analysis.png)
+
 Houve aumento consistente da incidência até aproximadamente **1990**.
 
 Entre **1990 e 2010**, ocorreram oscilações, mas a taxa permaneceu relativamente **estável**, possivelmente refletindo melhorias em diagnósticos e tratamentos.
@@ -66,6 +68,8 @@ Observa-se um crescimento progressivo da taxa de incidência conforme a idade au
 
 Além disso, ao comparar os anos de **1975 e 2022**, nota-se que todas as faixas etárias apresentaram aumento na taxa de incidência. O crescimento percentual foi mais expressivo entre os jovens (**43%** em menores de 15 anos e **37%** entre 15 e 39 anos), embora as taxas absolutas permaneçam muito inferiores às observadas em idades mais avançadas.
 
+![Gráfico da taxa de incidência ao longo dos anos por faixas de idade](figures/age_analysis.png)
+
 ## Conclusão:
 Esses resultados sugerem que o risco de diagnóstico de câncer está fortemente associado ao **envelhecimento**, mas também indicam um aumento estrutural da incidência ao longo do tempo em todas as faixas etárias. Refletindo mudanças recentes nos hábitos e na qualidade de vida das pessoas, principalmente dos mais jovens.
 
@@ -77,6 +81,8 @@ A análise demonstra que a incidência de câncer nos EUA é significativamente 
 Além disso, nota-se um crescimento da taxa de incidência, principalmente nas mulheres, ao comparar o ano inicial e final. Esse crescimento é de cerca de **21%** para mulheres e de apenas **6%** para os homens.
 
 ## Observações do gráfico:
+
+![Gráfico da taxa de incidência ao longo dos anos por gênero](figures/sex_analysis.png)
 
 A taxa dos homens subiu muito até **1990**, desde esse período ela encontra-se em **decadência**. Diferente da taxa das mulheres, que encontra-se subindo desde o ano inicial, com oscilações naturais.
 
